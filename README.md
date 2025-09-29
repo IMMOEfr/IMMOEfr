@@ -104,10 +104,10 @@
 ---
 
 ## 📊 Stats  
-<p align="center">
+<!-- <p align="center"> -->
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IMMOEfr&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=IMMOEfr&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p> -->
 <p align="center">
   <a href="https://www.codewars.com/users/IMMOEfr" target="_blank">
 <!--     <img src="https://github.r2v.ch/codewars?user=not-joosh&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark" alt="Codewars badge" /> -->
